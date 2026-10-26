@@ -1,0 +1,6 @@
+/**
+ * scanner
+ */
+public class scanner {
+
+}
