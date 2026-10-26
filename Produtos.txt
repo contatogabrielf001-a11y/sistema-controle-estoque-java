@@ -1,5 +1,0 @@
-teclado;60.0;40
-Cadeira Gamer PRO;25.0;7
-Mouse;10.0;8
-Celular;50.0;6
-Monitor;15.0;10
