@@ -1,6 +1,0 @@
-/**
- * scanner
- */
-public class scanner {
-
-}
